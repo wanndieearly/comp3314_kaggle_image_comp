@@ -1,8 +1,8 @@
 #Data file
-./Data
+/Data
 #Model file
-./Model
+/Model
 #Log file
-./Log
+/Log
 #reqiurement file
-./requirement.txt
+/requirement.txt
