@@ -1,8 +1,13 @@
 #Data file
 /Data
+/data
 #Model file
 /Model
+/Models
 #Log file
 /Log
-#reqiurement file
-/requirement.txt
+/features
+/unused
+/submission.csv
+/*.pkl
+/catboost_info
